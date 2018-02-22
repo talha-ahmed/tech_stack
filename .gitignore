@@ -27,6 +27,11 @@ xcodebuild.txt
 local.properties
 **/android/**/build
 **/android/Output
+.project
+android/.settings
+android/app/.settings
+android/app/.classpath
+lib/
 
 # node.js
 #
